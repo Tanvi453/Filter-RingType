@@ -1,0 +1,100 @@
+{
+    "Rings": [
+        {
+            "id": "1",
+            "name": "Diamond Ring",
+            "type": "Diamond",
+            "image_url": "/assets/ring1.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Diamond Ring",
+            "type": "Diamond",
+            "image_url": "/assets/ring2.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Diamond Ring",
+            "type": "Diamond",
+            "image_url": "/assets/ring3.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Silver Ring",
+            "type": "Silver",
+            "image_url": "/assets/ring4.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Gold Ring",
+            "type": "Golden",
+            "image_url": "/assets/ring5.jpg"
+        },
+        {
+            "id": "6",
+            "name": "Gold Ring",
+            "type": "Golden",
+            "image_url": "/assets/ring6.jpg"
+        },
+        {
+            "id": "7",
+            "name": "Gold Ring",
+            "type": "Golden",
+            "image_url": "/assets/ring7.jpg"
+        },
+        {
+            "id": "8",
+            "name": "Rose-Gold Ring",
+            "type": "Rose-gold",
+            "image_url": "/assets/ring8.jpg"
+        },
+        {
+            "id": "9",
+            "name": "Rose-Gold Ring",
+            "type": "Rose-gold",
+            "image_url": "/assets/ring9.jpg"
+        },
+        {
+            "id": "10",
+            "name": "Rose-Gold Ring",
+            "type": "Rose-gold",
+            "image_url": "/assets/ring10.jpg"
+        },
+        {
+            "id": "11",
+            "name": "Silver Ring",
+            "type": "Silver",
+            "image_url": "/assets/ring11.jpg"
+        },
+        {
+            "id": "12",
+            "name": "Silver Ring",
+            "type": "Silver",
+            "image_url": "/assets/ring12.jpg"
+        },
+        {
+            "id": "13",
+            "name": "Rose-Gold Ring",
+            "type": "Rose-Gold",
+            "image_url": "/assets/ring13.jpg"
+        },
+        {
+            "id": "14",
+            "name": "Gold Ring",
+            "type": "Golden",
+            "image_url": "/assets/ring14.jpg"
+        },
+        {
+            "id": "15",
+            "name": "Diamond Ring",
+            "type": "Diamond",
+            "image_url": "/assets/ring15.jpg"
+        },
+        {
+            "id": "16",
+            "name": "Silver Ring",
+            "type": "Silver",
+            "image_url": "/assets/ring16.jpg"
+        }
+    ]
+}
